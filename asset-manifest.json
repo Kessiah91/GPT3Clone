@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GPT3Clone/static/css/main.52b7b770.css",
-    "main.js": "/GPT3Clone/static/js/main.25621c3d.js",
+    "main.css": "/GPT3Clone/static/css/main.081daafc.css",
+    "main.js": "/GPT3Clone/static/js/main.9408bd2b.js",
     "static/media/ai.png": "/GPT3Clone/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/GPT3Clone/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/GPT3Clone/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -12,11 +12,11 @@
     "static/media/people.png": "/GPT3Clone/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/GPT3Clone/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/GPT3Clone/index.html",
-    "main.52b7b770.css.map": "/GPT3Clone/static/css/main.52b7b770.css.map",
-    "main.25621c3d.js.map": "/GPT3Clone/static/js/main.25621c3d.js.map"
+    "main.081daafc.css.map": "/GPT3Clone/static/css/main.081daafc.css.map",
+    "main.9408bd2b.js.map": "/GPT3Clone/static/js/main.9408bd2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.52b7b770.css",
-    "static/js/main.25621c3d.js"
+    "static/css/main.081daafc.css",
+    "static/js/main.9408bd2b.js"
   ]
 }
